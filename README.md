@@ -1,6 +1,6 @@
 # News-Headlines-Classfication
 
-News-Headlines-Classification classifies the *News Headlines* into 4 different news categories using ***Naive Bayes Algorithm***.
+News-Headlines-Classification classifies the *News Headlines* into 4 different news categories using ***Naive Bayes Algorithm*** and ***Support Vector Machine Algorithm***.
 
 **News Categories :**
 1. Business
